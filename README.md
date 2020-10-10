@@ -1,3 +1,32 @@
+
+# ProTask - Todo List App 
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Preview project](#preview)
+
+
+## General info
+ProTask is a todo list app with database and auth login for users.
+	
+## Technologies
+Project is created with:
+* HTML
+* CSS 
+* Framework FRONTEND: Bootstrap
+* Laravel Php
+* MySQL DB
+	
+## Preview Project
+![GitHub Logo](/media/logo22.png)
+Format: ![Alt Text](url)
+
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -59,4 +88,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# protask-todo-laravel
+
+
+
+
