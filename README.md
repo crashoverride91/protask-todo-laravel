@@ -19,9 +19,9 @@ Project is created with:
 * MySQL DB
 	
 ## Preview Project
-![Logo App](/public/media/logo22.png);
-![Image 1](/public/media/Protask1.png);
-![Image 2](/public/media/Protask2.png);
+![Logo App](/public/media/logo22.png)
+![Image 1](/public/media/Protask1.png)
+![Image 2](/public/media/Protask2.png)
 
 
 
