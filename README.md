@@ -15,11 +15,14 @@ Project is created with:
 * HTML
 * CSS 
 * Framework FRONTEND: Bootstrap
-* Laravel Php
+* Laravel Php and Livewire
 * MySQL DB
 	
 ## Preview Project
 ![Logo App](/public/media/logo22.png);
+![Image 1](/public/media/Protask1.png);
+![Image 2](/public/media/Protask2.png);
+
 
 
 
