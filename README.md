@@ -19,8 +19,7 @@ Project is created with:
 * MySQL DB
 	
 ## Preview Project
-![GitHub Logo](/media/logo22.png)
-Format: ![Alt Text](url)
+![Logo App](./media/logo22.png);
 
 
 
