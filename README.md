@@ -19,7 +19,7 @@ Project is created with:
 * MySQL DB
 	
 ## Preview Project
-![Logo App](./media/logo22.png);
+![Logo App](/public/media/logo22.png);
 
 
 
