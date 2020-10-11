@@ -23,7 +23,7 @@
     <link rel="icon" type="image/png" href="/media/logo22.png"/>
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-</head>
+</head> 
 <body>
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-nav shadow-sm">
